@@ -16,4 +16,6 @@ En las zonas azules se tiene el diseño del circuito que cuenta con un microcont
 Para los administradores de los parqueaderos se empleara una aplicacion que permitira indicar cuantos cupos disponibles hay en el parqueadero, la cual puede ser utilizada a traves de un celular. La programación de esta aplicacion se realizoa través de la herramienta Android Studio que tiene un lenguaje de programacion java. 
 
 ## Aplicacion para los usuarios
-Para la presentación de la información de los parqueaderos y zonas de parqueo se tiene el diseño de una aplicación la cual puede ser usada por los usuarios a través de un celular, la programación de esta aplicacion se realizo a través de la herramienta android studio que tiene un lenguaje de programacion java.  
+Para la presentación de la información de los parqueaderos y zonas de parqueo se tiene el diseño de una aplicación la cual puede ser usada por los usuarios a través de un celular, la programación de esta aplicacion se realizo a través de la herramienta android studio que tiene un lenguaje de programacion java. 
+![App usuarios](https://user-images.githubusercontent.com/47339991/145721895-da936898-36b2-4ce2-ae3e-f21e50ed26fb.jpeg)
+
