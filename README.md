@@ -12,8 +12,7 @@ Una de las mayores ventajas con la implementación de este sistema es la mejora 
 ## Zonas azules
 En las zonas azules se tiene el diseño del circuito que cuenta con un microcontrolador arduino nano, que va conectado a un shield del arduino nano, un modulo WiFi Esp8266-01s y los sensores infrarrojos E18-d80nk, los cuales permitiran conocer los cupos disponibles en determinadas zonas azules. Ademas, el circuito tiene como alimentacion el uso de dos paneles solares, dos pilas de litio y un cargador de baterias Tp4056, teniendo una autonomia de todo el dia con los paneles y por la noche con las pilas.
 
-<img src="https://user-images.githubusercontent.com/47339991/145722558-3766c400-09a9-4b80-94ac-2775a50307a9.jpeg" height="400">
-<img src="https://user-images.githubusercontent.com/47339991/145722702-e9557088-8777-4932-a5ca-8c427cfffdcc.png" height="800">
+<img src="https://user-images.githubusercontent.com/47339991/145722558-3766c400-09a9-4b80-94ac-2775a50307a9.jpeg" height="400"> <img src="https://user-images.githubusercontent.com/47339991/145722871-890b23e8-bd16-4cff-b7de-7066c674de95.png" height="400">
 
 ## Aplicacion para los administradores
 Para los administradores de los parqueaderos se empleara una aplicacion que permitira indicar cuantos cupos disponibles hay en el parqueadero, la cual puede ser utilizada a traves de un celular. La programación de esta aplicacion se realizoa través de la herramienta Android Studio que tiene un lenguaje de programacion java.
