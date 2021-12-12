@@ -13,9 +13,11 @@ Una de las mayores ventajas con la implementación de este sistema es la mejora 
 En las zonas azules se tiene el diseño del circuito que cuenta con un microcontrolador arduino nano, que va conectado a un shield del arduino nano, un modulo WiFi Esp8266-01s y los sensores infrarrojos E18-d80nk, los cuales permitiran conocer los cupos disponibles en determinadas zonas azules. Ademas, el circuito tiene como alimentacion el uso de dos paneles solares, dos pilas de litio y un cargador de baterias Tp4056, teniendo una autonomia de todo el dia con los paneles y por la noche con las pilas.
 
 ## Aplicacion para los administradores
-Para los administradores de los parqueaderos se empleara una aplicacion que permitira indicar cuantos cupos disponibles hay en el parqueadero, la cual puede ser utilizada a traves de un celular. La programación de esta aplicacion se realizoa través de la herramienta Android Studio que tiene un lenguaje de programacion java. 
+Para los administradores de los parqueaderos se empleara una aplicacion que permitira indicar cuantos cupos disponibles hay en el parqueadero, la cual puede ser utilizada a traves de un celular. La programación de esta aplicacion se realizoa través de la herramienta Android Studio que tiene un lenguaje de programacion java.
+
+<img src="https://user-images.githubusercontent.com/47339991/145721947-7144ccbd-cffb-42f2-b5e5-53f44005af9e.jpeg" width="200" height="400">
 
 ## Aplicacion para los usuarios
 Para la presentación de la información de los parqueaderos y zonas de parqueo se tiene el diseño de una aplicación la cual puede ser usada por los usuarios a través de un celular, la programación de esta aplicacion se realizo a través de la herramienta android studio que tiene un lenguaje de programacion java. 
-![App usuarios](https://user-images.githubusercontent.com/47339991/145721895-da936898-36b2-4ce2-ae3e-f21e50ed26fb.jpeg)
 
+<img src="https://user-images.githubusercontent.com/47339991/145721895-da936898-36b2-4ce2-ae3e-f21e50ed26fb.jpeg" width="200" height="400">
