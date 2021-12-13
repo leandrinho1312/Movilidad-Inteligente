@@ -60,3 +60,5 @@ Para la presentación de la información de los parqueaderos y zonas de parqueo 
 For the presentation of the information of the parking lots and parking areas there is the design of a mobile application which can be used by users through a cell phone, where there could see the number of places available, as well as the possibility to get directed to the google maps application in order to give them indications of how to get to the place they want. The programming of this application was done through the android studio tool that has a Java programming language.
 
 <img src="https://user-images.githubusercontent.com/47339991/145721895-da936898-36b2-4ce2-ae3e-f21e50ed26fb.jpeg" width="200" height="400">
+
+[![Alt text](https://img.youtube.com/vi/zi-KjZmET5Y/0.jpg)](https://www.youtube.com/watch?v=zi-KjZmET5Y)
